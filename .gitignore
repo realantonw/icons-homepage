@@ -1,7 +1,6 @@
-# OSX
-.DS_Store
+# ignore everything
+/icons-homepage/*
 
-# ignore log files and databases
-*.log
-*.sql
-*.sqlite
+# except these files
+!icons-homepage/wp-content/
+!icons-homepage/wp-config.php
