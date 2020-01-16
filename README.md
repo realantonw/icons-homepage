@@ -21,6 +21,9 @@ In this folder clone the github repo by executing the following command
 
 ```
 git clone https://github.com/realantonw/icons-homepage.git
+cd icons-homepage
+git checkout -b develop
+git pull origin develop
 ```
 
 #### Create DB for homepage
