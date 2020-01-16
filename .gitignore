@@ -1,6 +1,2 @@
-# ignore everything
-/icons-homepage/*
-
-# except these files
-!icons-homepage/wp-content/
-!icons-homepage/wp-config.php
+# OSX
+.DS_Store
